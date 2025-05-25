@@ -30,4 +30,4 @@ A simple and interactive web-based quiz application built using **HTML**, **CSS*
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/online-quiz-app.git
+git clone https://github.com/Balasridevi/Online-Quiz-App.git
