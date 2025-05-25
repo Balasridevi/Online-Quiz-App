@@ -16,6 +16,8 @@ A simple and interactive web-based quiz application built using **HTML**, **CSS*
 
 ![image alt](https://github.com/Balasridevi/Online-Quiz-App/blob/50156100e35cb882b1d6f88358361aa7d3fd0017/Screenshot%20(3).png)
 
+![image alt](https://github.com/Balasridevi/Online-Quiz-App/blob/517afd5747357fa968186eb134af8229becaf6d2/Screenshot%20(8).png)
+
 
 ## Technologies Used
 
